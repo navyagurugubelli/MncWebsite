@@ -8,7 +8,7 @@ body {
   margin: 0;
   display: block;
   font-family: system-ui, sans-serif;
-  
+
   /* this breaks position sticky in Firefox */
   /* overflow-x: hidden; */
 }
@@ -51,13 +51,14 @@ section{
  /* display:flex; */
   padding: 1rem;
   margin-top: 2rem;
- /* height:1000px; */ 
-  padding-top: 0 10px; 
+ /* height:1000px; */
+  padding-top: 0 10px;
 }
 section p{
  margin:0rem;
  font-size:18px;
  font-family: 'Rubik', sans-serif;
+ text-align: center;
 }
 section h1{
   font-size:36px;
@@ -79,7 +80,7 @@ section h2{
    section{
      padding:0;
    }
-  
+
   .logo{
     width:50%;
     margin-top:0;
@@ -148,7 +149,7 @@ section h2{
   }
 
 }
- 
+
 /*--- Meet the team --- */
 
 .col-centered{
@@ -295,12 +296,12 @@ section h2{
   }
   .table>tbody>tr>td{
     overflow:auto;
-    font-size:14px; 
+    font-size:14px;
   }
   .table>tbody>tr>td>a{
     margin:auto 0;
     margin-left:10px;
-    
+
   }
 }
 
@@ -311,12 +312,12 @@ section h2{
   }
   .table>tbody>tr>td{
     overflow:auto;
-    font-size:12px; 
+    font-size:12px;
   }
   .table>tbody>tr>td>a{
     margin:auto 0;
     margin-left:3.5px;
-    
+
   }
 }
 /*--- Footer --- */
@@ -394,7 +395,7 @@ clear: both;
   top: -10px;
   left: 18px;
   bottom: 10px;
-  right: 18px; 
+  right: 18px;
 }
 .section-team{
  margin-top:10px;
@@ -405,7 +406,7 @@ clear: both;
  .get-touch{
   margin-top:30px;
   margin-bottom: 10px;
-} 
+}
 
  .contact p{
   padding:0px 0px 40px 0;
@@ -413,7 +414,7 @@ clear: both;
  .contact-container,.contact{
    margin:0;
    padding: 0;
- } 
+ }
  .img-container{
   width: 100vw;
   margin-top: 30vh;
@@ -424,6 +425,3 @@ clear: both;
     padding:0px 0px 20px 0;
    }
 }
-
-
-  
