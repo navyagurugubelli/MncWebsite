@@ -338,6 +338,7 @@ body .cursor__ball--big  {
 }
 body .cursor__ball--small {
   stroke: black;
+  top: -4px;
 }
 body{cursor:none}
 
