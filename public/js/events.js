@@ -129,6 +129,10 @@ var over = ()=>{
             trans('film','#FECC47')
           })
           break;
+          case 'hh':element.addEventListener('click', () => {
+            trans('hh', '#ffd600')
+          })
+          break;
           case 'ELS':element.addEventListener('click',()=>{
             trans('ELS','#B1FF3A')
           })
@@ -201,6 +205,10 @@ var over = ()=>{
         switch(d){
           case 'film':element.addEventListener('click',()=>{
             trans('film','#FECC47')
+          })
+          break;
+          case 'hh':element.addEventListener('click', () => {
+            trans('hh', '#ffd600')
           })
           break;
           case 'ELS':element.addEventListener('click',()=>{
@@ -283,6 +291,10 @@ var over = ()=>{
             trans('film','#FECC47')
           })
           break;
+          case 'hh':element.addEventListener('click', () => {
+            trans('hh', '#ffd600')
+          })
+          break;
           case 'ELS':element.addEventListener('click',()=>{
             trans('ELS','#B1FF3A')
           })
@@ -355,6 +367,10 @@ var over = ()=>{
         switch(d){
           case 'film':element.addEventListener('click',()=>{
             trans('film','#FECC47')
+          })
+          break;
+          case 'hh':element.addEventListener('click', () => {
+            trans('hh', '#ffd600')
           })
           break;
           case 'ELS':element.addEventListener('click',()=>{
